@@ -68,4 +68,4 @@ The ANN model predicts the required number of pods with high accuracy, demonstra
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/LoveselvanGit/predictive-scaling-k8s.git
